@@ -1,18 +1,20 @@
-## My Project
+# Open Source Security Visibility with TREND MICRO - CLOUD ONE 
 
-TODO: Fill this README out!
+Trend Micro Cloud One – Open Source Security by Snyk connects with your code repositories and CI/CD pipelines to scan projects. This empowers security teams with better visibility, tracking, and early awareness into open source issues for more relevant insights and risk management.
 
-Be sure to:
+## Learning Objectives
+- Open source = good, vulnerabilities = bad. **Learn about application open source risks**
+- Understand the importance of visibility into open source dependencies
+- Learn how to easily test your own repositories for open source issues
+- Generate a Bill of Materials and monitor projects over time
+- Surface open source license risks that may pose legal or compliance issues
 
-* Change the title in this README
-* Edit your repository description on GitHub
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License Summary
-
-The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
-
-The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
+## Who should attend
+- Cloud Security Engineer
+- DevSecOps Engineer
+- SecOps Engineers
+- Information Security
+- Risk Application Manager
+- Application Security 
+- Anyone interested in open source security and license management visibility across multiple application projects
