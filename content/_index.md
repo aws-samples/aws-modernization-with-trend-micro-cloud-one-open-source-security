@@ -29,11 +29,9 @@ The workshop is divided into the sections listed below. Plan for around 2 hours 
 
 <span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 5. Report and manage key findings for open source issues (15 minutes)</b>
 
-<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 8. Conclusion (5 minutes)</b>
+<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 6. Conclusion (5 minutes)</b>
 
-<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 9. Cleanup (5 minutes)</b>
-
-<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 10. Survey (5 minutes)</b>
+<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 7. Survey (5 minutes)</b>
 
 --------
 
